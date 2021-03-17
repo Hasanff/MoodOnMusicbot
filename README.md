@@ -27,7 +27,7 @@ MoodOnMusic tamamen sizin kaliteli m&uuml;zik dinlemeniz i&ccedil;in kodlandı. 
 <div class="content"><main class="entity-content__description">
 <div class="content">
 <h3><strong><em>-------------</em></strong><strong><em>Komutlar</em></strong><strong><em>-------------</em></strong></h3>
-<br />
+Komutlar aşağıda bulunmaktadır. Hayla mı yapamıyorsunuz? Merak etmeyin! <a href="https://vimeo.com/524767431" target="_blank" rel="noopener">Tıklayın ve videoyu izleyin.</a><br />
 <div class="table-responsive">
 <table class="table color-bordered-table red-bordered-table">
 <thead>
