@@ -21,7 +21,7 @@ MoodOnMusic tamamen sizin kaliteli m&uuml;zik dinlemeniz i&ccedil;in kodlandı. 
 <section class="entity-content__section entity-user-content"><main class="entity-content__description">
 <div class="content">
 <p>Desteğe ihtiyacınız olursa discord sunucumuza gelerek yardım alabilirsiniz.</p>
- <br />-Kaliteli olduğu i&ccedil;in kullanılır.<br />En hızlı şekilde m&uuml;zik dinlemek i&ccedil;in kullanılır.<br />-Tamamen T&uuml;rk&ccedil;e olduğu i&ccedil;in kullanılır.<br />-Pro s&uuml;r&uuml;m&uuml; olmadan herkese adaletli davranıldığı i&ccedil;in kullanılır.<br />-Hi&ccedil;bir gelir kaynağı olmadan hizmet verildiği i&ccedil;in kullanılır.</p>
+<p><img src="https://cdn.glitch.com/32e90c1d-3a41-4b29-a97a-1626d7c89749%2FTOP-GG-Tantm.gif?v=1615970064711" alt="" width="577" height="325" /><br />-Kaliteli olduğu i&ccedil;in kullanılır.<br />En hızlı şekilde m&uuml;zik dinlemek i&ccedil;in kullanılır.<br />-Tamamen T&uuml;rk&ccedil;e olduğu i&ccedil;in kullanılır.<br />-Pro s&uuml;r&uuml;m&uuml; olmadan herkese adaletli davranıldığı i&ccedil;in kullanılır.<br />-Hi&ccedil;bir gelir kaynağı olmadan hizmet verildiği i&ccedil;in kullanılır.</p>
 <section class="entity-content__section entity-sidebar">
 <div class="entity-sidebar__misc"><main class="entity-content__description">
 <div class="content"><main class="entity-content__description">
