@@ -4,7 +4,7 @@
 <div class="entity-header__vertical-wrapper">
 <div class="entity-header__vertical-wrapper-section entity-header__details">
 <div class="base__Flex-sc-1f9zlm1-0 base__Column-sc-1f9zlm1-2 UgVug dOWREt">
-<h1 class="entity-header__name-wrapper"><span class="base__StyledText-sc-1f9zlm1-4 ktRGBq entity-header__name">----BOT HAKKINDA----<br /><br />MoodOnMusic</span></h1>
+<h1 class="entity-header__name-wrapper"><span class="base__StyledText-sc-1f9zlm1-4 ktRGBq entity-header__name">----BOT HAKKINDA----<br /><img src="https://media.discordapp.net/attachments/743164069938200650/821673251649617930/CC_20210317_121433.png" width="189" height="189" /><br />MoodOnMusic</span></h1>
 MoodOnMusic tamamen sizin kaliteli m&uuml;zik dinlemeniz i&ccedil;in kodlandı. Yakında onaylanacak bu bot sizler i&ccedil;in &uuml;cretsiz olarak hizmet veriyor. Pro s&uuml;r&uuml;mleri olmamak ile birlikte herkes eşit durumdadır.<br /><br />7/24 aktif olan bu bot sadece g&uuml;nl&uuml;k g&uuml;ncellemelerde 1-2 dakikalık kesinti olacaktır. Şuanda sadece T&uuml;rk&ccedil;e diliyle hizmet veriyoruz. İleride daha fazla dil eklenecektir.</div>
 </div>
 </div>
