@@ -14,14 +14,14 @@ MoodOnMusic tamamen sizin kaliteli m&uuml;zik dinlemeniz i&ccedil;in kodlandı. 
 <section class="entity-content__section entity-sidebar">
 <div class="entity-sidebar__overview">
 <div class="entity-table">
-<h1 class="entity-table__cell">&nbsp;</h1>
+<h1 class="entity-table__cell"><span style="font-size: 14px;">Desteğe ihtiyacınız olursa discord sunucumuza gelerek yardım alabilirsiniz. <a href="https://discord.gg/5tEexFazvR" target="_blank" rel="noopener">Tıkla ve sunucuya katıl!</a></span></h1>
 </div>
 </div>
 </section>
 <section class="entity-content__section entity-user-content"><main class="entity-content__description">
 <div class="content">
-<p>Desteğe ihtiyacınız olursa discord sunucumuza gelerek yardım alabilirsiniz.</p>
-<p><img src="https://cdn.glitch.com/32e90c1d-3a41-4b29-a97a-1626d7c89749%2FTOP-GG-Tantm.gif?v=1615970064711" alt="" width="577" height="325" /><br />-Kaliteli olduğu i&ccedil;in kullanılır.<br />En hızlı şekilde m&uuml;zik dinlemek i&ccedil;in kullanılır.<br />-Tamamen T&uuml;rk&ccedil;e olduğu i&ccedil;in kullanılır.<br />-Pro s&uuml;r&uuml;m&uuml; olmadan herkese adaletli davranıldığı i&ccedil;in kullanılır.<br />-Hi&ccedil;bir gelir kaynağı olmadan hizmet verildiği i&ccedil;in kullanılır.</p>
+<h3><strong><em>-------------Neden Kullanmalısınız?</em></strong><strong><em>-------------</em></strong></h3>
+<p>-Kaliteli olduğu i&ccedil;in kullanılır.<br />En hızlı şekilde m&uuml;zik dinlemek i&ccedil;in kullanılır.<br />-Tamamen T&uuml;rk&ccedil;e olduğu i&ccedil;in kullanılır.<br />-Pro s&uuml;r&uuml;m&uuml; olmadan herkese adaletli davranıldığı i&ccedil;in kullanılır.<br />-Hi&ccedil;bir gelir kaynağı olmadan hizmet verildiği i&ccedil;in kullanılır.<br /><br /></p>
 <section class="entity-content__section entity-sidebar">
 <div class="entity-sidebar__misc"><main class="entity-content__description">
 <div class="content"><main class="entity-content__description">
